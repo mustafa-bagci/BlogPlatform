@@ -1,8 +1,8 @@
-# Blog Website
+# Blog Platform
 
 ![Screenshot of the Chat Application](blog-homepage.png)
 
-This is a blog website built using Next.js.
+This is a blog platform built using Next.js.
 
 ## Getting Started
 
