@@ -10,7 +10,7 @@ To get started, clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/mustafa-bagci/BlogPlatform.git
-cd blog-website-nextjs
+cd BlogPlatform
 npm install
 ```
 
